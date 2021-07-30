@@ -1,3 +1,4 @@
 Name: Alfredo Cedeno
 Age: 24
 Favorite color: Maroon
+Favorite pet: Vito
